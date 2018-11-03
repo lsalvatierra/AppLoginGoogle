@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppLoginGoogle</string>
+    <string name="valBtnLogout">Cerrar sesión</string>
+</resources>
